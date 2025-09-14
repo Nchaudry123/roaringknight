@@ -35,6 +35,7 @@
   },
   "name":"RoaringKnight",
   "resources":[
+    {"id":{"name":"common_code_commands","path":"notes/common_code_commands/common_code_commands.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"roaring_knight_s","path":"sprites/roaring_knight_s/roaring_knight_s.yy",},},
     {"id":{"name":"roaring_knight_spr_s","path":"tilesets/roaring_knight_spr_s/roaring_knight_spr_s.yy",},},

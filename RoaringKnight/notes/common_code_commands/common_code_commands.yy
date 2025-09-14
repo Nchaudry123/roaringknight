@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"common_code_commands",
+  "name":"common_code_commands",
+  "parent":{
+    "name":"Notes",
+    "path":"folders/Notes.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
