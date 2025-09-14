@@ -36,6 +36,7 @@
   "name":"RoaringKnight",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"roaring_knight_s","path":"sprites/roaring_knight_s/roaring_knight_s.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
