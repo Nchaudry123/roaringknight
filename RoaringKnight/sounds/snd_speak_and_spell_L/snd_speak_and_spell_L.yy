@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_speak_and_spell_L",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.2946712,
+  "name":"snd_speak_and_spell_L",
+  "parent":{
+    "name":"audiogroup_default",
+    "path":"folders/audiogroup_default/audiogroup_default.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_speak_and_spell_L.wav",
+  "type":0,
+  "volume":1.0,
+}

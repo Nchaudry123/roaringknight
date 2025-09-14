@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_mike_reset",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":3.957551,
+  "name":"snd_mike_reset",
+  "parent":{
+    "name":"audiogroup_default",
+    "path":"folders/audiogroup_default/audiogroup_default.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_mike_reset.wav",
+  "type":0,
+  "volume":1.0,
+}

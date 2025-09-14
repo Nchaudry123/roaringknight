@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_churchbell_short",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.1293197,
+  "name":"snd_churchbell_short",
+  "parent":{
+    "name":"audiogroup_default",
+    "path":"folders/audiogroup_default/audiogroup_default.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_churchbell_short.wav",
+  "type":0,
+  "volume":1.0,
+}

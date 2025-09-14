@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_straw_drink_long_annoying_short",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.6066667,
+  "name":"snd_straw_drink_long_annoying_short",
+  "parent":{
+    "name":"audiogroup_default",
+    "path":"folders/audiogroup_default/audiogroup_default.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_straw_drink_long_annoying_short.wav",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_dtrans_flip",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":5.8589797,
+  "name":"snd_dtrans_flip",
+  "parent":{
+    "name":"external",
+    "path":"folders/audiogroup_default/audiogroup_default/external.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_dtrans_flip.ogg",
+  "type":0,
+  "volume":1.0,
+}

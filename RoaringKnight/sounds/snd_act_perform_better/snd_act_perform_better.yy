@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_act_perform_better",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.6813378,
+  "name":"snd_act_perform_better",
+  "parent":{
+    "name":"audiogroup_default",
+    "path":"folders/audiogroup_default/audiogroup_default.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_act_perform_better.wav",
+  "type":0,
+  "volume":1.0,
+}

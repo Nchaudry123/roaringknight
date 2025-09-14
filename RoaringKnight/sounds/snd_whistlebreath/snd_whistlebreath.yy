@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_whistlebreath",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.44644,
+  "name":"snd_whistlebreath",
+  "parent":{
+    "name":"audio_sfx",
+    "path":"folders/audio_sfx/audio_sfx.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_whistlebreath.wav",
+  "type":0,
+  "volume":1.0,
+}

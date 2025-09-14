@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_won",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.0448979,
+  "name":"snd_won",
+  "parent":{
+    "name":"audio_sfx",
+    "path":"folders/audio_sfx/audio_sfx.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_won.wav",
+  "type":0,
+  "volume":1.0,
+}

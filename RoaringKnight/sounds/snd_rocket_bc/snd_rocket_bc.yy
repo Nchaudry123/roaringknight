@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_rocket_bc",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.1105896,
+  "name":"snd_rocket_bc",
+  "parent":{
+    "name":"audiogroup_default",
+    "path":"folders/audiogroup_default/audiogroup_default.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_rocket_bc.wav",
+  "type":0,
+  "volume":1.0,
+}

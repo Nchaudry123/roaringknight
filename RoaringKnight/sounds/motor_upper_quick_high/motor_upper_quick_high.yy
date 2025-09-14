@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"motor_upper_quick_high",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.50265306,
+  "name":"motor_upper_quick_high",
+  "parent":{
+    "name":"audiogroup_default",
+    "path":"folders/audiogroup_default/audiogroup_default.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"motor_upper_quick_high.wav",
+  "type":0,
+  "volume":1.0,
+}

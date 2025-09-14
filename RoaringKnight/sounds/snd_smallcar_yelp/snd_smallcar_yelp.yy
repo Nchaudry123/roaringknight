@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_smallcar_yelp",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.26006803,
+  "name":"snd_smallcar_yelp",
+  "parent":{
+    "name":"external",
+    "path":"folders/audiogroup_default/audiogroup_default/external.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_smallcar_yelp.ogg",
+  "type":0,
+  "volume":1.0,
+}

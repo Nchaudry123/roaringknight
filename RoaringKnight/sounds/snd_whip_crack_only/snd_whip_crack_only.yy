@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_whip_crack_only",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.7159864,
+  "name":"snd_whip_crack_only",
+  "parent":{
+    "name":"audiogroup_default",
+    "path":"folders/audiogroup_default/audiogroup_default.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_whip_crack_only.wav",
+  "type":0,
+  "volume":1.0,
+}

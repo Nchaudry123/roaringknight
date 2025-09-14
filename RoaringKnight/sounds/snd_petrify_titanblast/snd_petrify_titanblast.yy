@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_petrify_titanblast",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":5.4280047,
+  "name":"snd_petrify_titanblast",
+  "parent":{
+    "name":"audiogroup_default",
+    "path":"folders/audiogroup_default/audiogroup_default.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_petrify_titanblast.wav",
+  "type":0,
+  "volume":1.0,
+}

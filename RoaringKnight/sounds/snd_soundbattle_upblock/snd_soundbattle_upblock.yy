@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_soundbattle_upblock",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.87333333,
+  "name":"snd_soundbattle_upblock",
+  "parent":{
+    "name":"audiogroup_default",
+    "path":"folders/audiogroup_default/audiogroup_default.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_soundbattle_upblock.wav",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_orchhit",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.61306125,
+  "name":"snd_orchhit",
+  "parent":{
+    "name":"audio_sfx",
+    "path":"folders/audio_sfx/audio_sfx.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_orchhit.wav",
+  "type":0,
+  "volume":1.0,
+}

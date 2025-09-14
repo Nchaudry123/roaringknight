@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_santa_laugh_low_energy",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.0520182,
+  "name":"snd_santa_laugh_low_energy",
+  "parent":{
+    "name":"audiogroup_default",
+    "path":"folders/audiogroup_default/audiogroup_default.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_santa_laugh_low_energy.wav",
+  "type":0,
+  "volume":1.0,
+}
