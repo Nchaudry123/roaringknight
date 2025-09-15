@@ -17,8 +17,6 @@
     {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
     {"name":"Sequences","order":10,"path":"folders/Sequences.yy",},
     {"name":"Shaders","order":5,"path":"folders/Shaders.yy",},
-    {"name":"Sounds","order":2,"path":"folders/Sounds.yy",},
-    {"name":"menu_sounds","order":1,"path":"folders/Sounds/menu_sounds.yy",},
     {"name":"SpriteSheets","order":1,"path":"folders/SpriteSheets.yy",},
     {"name":"battle_box_sequence_sprites","order":1,"path":"folders/SpriteSheets/battle_box_sequence_sprites.yy",},
     {"name":"spr_titan_fountain_loop_sprites","order":2,"path":"folders/SpriteSheets/spr_titan_fountain_loop_sprites.yy",},
